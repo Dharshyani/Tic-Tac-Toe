@@ -33,3 +33,14 @@ Play against a friend or challenge the computer (AI) — all from your browser!
     ├── Image.jpg            # Background image
     ├── fire.png             # Fire symbol
     └── snow1.png            # Snowflake symbol
+
+## 🛠️ Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Dharshyani/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
+npm install
+npm start
+

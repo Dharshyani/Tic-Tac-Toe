@@ -34,6 +34,8 @@ Play against a friend or challenge the computer (AI) — all from your browser!
     ├── fire.png             # Fire symbol
     └── snow1.png            # Snowflake symbol
 
+---
+
 ## 🛠️ Installation
 
 To run the project locally:
